@@ -3,7 +3,7 @@ this is simple website to learn git and github.
 ## Introduction
 
 ## Purpose
-to learn git github
+to learn git & github
 ## Deployment
 
 ## How To Contribute
