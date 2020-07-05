@@ -1,0 +1,6 @@
+# for specific file
+password.txt
+#for pattern 
+*.test
+# pattern for  folder
+newfolder/
