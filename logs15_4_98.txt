@@ -1,0 +1,11 @@
+commit 0784b94b8879ee8aa38b810057a2e062eecc4235
+Author: Reza Mousavian <rezamosavian1014@gmail.com>
+Date:   Sun Jul 5 00:33:59 2020 -0700
+
+    added test file for using git log
+
+commit 307ef4c770210315aef3e76c83802bd8b4587875
+Author: Reza Mousavian <rezamosavian1014@gmail.com>
+Date:   Fri Jul 3 11:02:55 2020 -0700
+
+    my first commit
