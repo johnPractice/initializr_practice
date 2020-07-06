@@ -8,6 +8,7 @@ to learn git & github
 ?
 ## How To Contribute
 my email address
+my id in social media
 
 ### copyright
 Reza Mousavian
