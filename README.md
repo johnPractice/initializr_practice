@@ -8,3 +8,6 @@ to learn git & github
 ?
 ## How To Contribute
 my email address
+
+### copyright
+Reza Mousavian
